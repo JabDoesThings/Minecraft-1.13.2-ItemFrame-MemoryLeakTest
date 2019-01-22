@@ -1,0 +1,8 @@
+main: jab.test.memoryleak.PluginMemoryLeak
+name: ItemFrameMemoryLeakTest
+version: 1.0
+api-version: 1.13
+Author: Jab
+description: "Testing ItemFrame swapping with Spigot's API for a memory leak."
+commands:
+  test:
